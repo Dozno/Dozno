@@ -3,7 +3,6 @@
 🕺🏽 Dancer<br/>
 💻 begginer developer<br/>
 📓 Student<br/>
-[ig](https://www.instagram.com/dave_ci128)<br/>
 
 
 ## 🌐 Socials:
