@@ -1,16 +1,88 @@
-## Hi there 👋
+# Dozno
 
-<!--
-**Dozno/Dozno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+const profile = {
+  name: "Dozno",
+  bio: "Professional vibe coder.",
+  currentWork: "Currently I'm competing in TdA and doing some side projects along.",
+  interests: "I am interested mainly in web development.",
+  skills: [
+    "Vue.js",
+    "Next.js",
+    "React",
+    "CSS3",
+    "HTML5",
+    "Node.js",
+    "MySQL",
+    "GitHub Actions",
+    "TensorFlow",
+    "Android",
+    "C#",
+    "TypeScript",
+    "Python",
+    "PHP",
+    "JavaScript"
+  ],
+}
+```
 
-Here are some ideas to get you started:
+## 🔭 I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm competing in TdA and doing some side projects along.
+
+## 👀 I'm interested in
+
+I am interested mainly in web development.
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "Vue.js",
+    "Next.js",
+    "React",
+    "CSS3",
+    "HTML5"
+  ],
+  "backend": [
+    "Node.js",
+    "MySQL"
+  ],
+  "devops": [
+    "GitHub Actions"
+  ],
+  "ai/ml": [
+    "TensorFlow"
+  ],
+  "mobile": [
+    "Android"
+  ],
+  "languages": [
+    "C#",
+    "TypeScript",
+    "Python",
+    "PHP",
+    "JavaScript"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "Dozno",
+}
+```
+
+<div>
+<a href="https://github.com/Dozno"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
+</div>
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
