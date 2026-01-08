@@ -26,14 +26,6 @@ const profile = {
 }
 ```
 
-## 🔭 I'm currently working on
-
-Currently I'm competing in TdA and doing some side projects along.
-
-## 👀 I'm interested in
-
-I am interested mainly in web development.
-
 ## 💻 Tech Stack
 
 ```json
