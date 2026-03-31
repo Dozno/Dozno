@@ -2,9 +2,9 @@
 
 ```typescript
 const profile = {
-  name: "Dozno",
+  name: "David Cicko",
   bio: "Professional vibe coder.",
-  currentWork: "Currently I'm competing in TdA and doing some side projects along.",
+  currentWork: "Currently I'm helping with it in SCG!",
   interests: "I am interested mainly in web development.",
   skills: [
     "Vue.js",
@@ -71,10 +71,3 @@ const socials = {
 <div>
 <a href="https://github.com/Dozno"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
 </div>
-
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
-
-process.exit(0); // Until next time 👋
-```
